@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Coroutines</string>
-    <string name="current">Current count of apples</string>
-    <string name="max">Max count of apples</string>
+    <string name="current">Add current count</string>
+    <string name="max">Add max count</string>
     <string name="button_name">Next</string>
     <string name="reset_button">RESET</string>
     <string name="add_button">ADD</string>
